@@ -7,8 +7,8 @@
 
 #import <IronSource/ISBaseAdapter+Internal.h>
 
-static NSString * const BidMachineAdapterVersion = @"5.1.0";
-static NSString * Githash = @"";
+static NSString * const BidMachineAdapterVersion = @"5.1.1";
+static NSString * Githash = @"a08073f";
 
 //No System Frameworks For BidMachine Adapter are required
 
